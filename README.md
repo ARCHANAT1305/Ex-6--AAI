@@ -1,5 +1,5 @@
 
-# EX NO: 6 Implementation of Semantic Analysis
+# EX NO: 8 Implementation of Semantic Analysis
 
 ##### NAME:ARCHANA T
 ##### REGISTER NO:212223240013
